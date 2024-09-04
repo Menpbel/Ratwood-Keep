@@ -190,7 +190,7 @@
 /obj/item/keyring/puritan
 	keys = list(/obj/item/roguekey/puritan, /obj/item/roguekey/manor, /obj/item/roguekey/confession, /obj/item/roguekey/church)
 
-/obj/item/keyring/shepherd
+/obj/item/keyring/confessor
 	keys = list(/obj/item/roguekey/confession, /obj/item/roguekey/church)
 
 /obj/item/keyring/nightman
