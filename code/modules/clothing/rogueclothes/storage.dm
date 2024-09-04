@@ -29,6 +29,13 @@
 		return TRUE
 	..()
 
+/obj/item/storage/belt/rogue/leather/fajin
+	name = "Fajin"
+	desc = ""
+	icon_state = "fajin"
+	item_state = "fajin"
+	heldz_items = 1
+
 /obj/item/storage/belt/rogue/leather
 	name = "belt"
 	desc = "A leather belt."
