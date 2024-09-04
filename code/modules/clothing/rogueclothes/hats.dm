@@ -60,6 +60,18 @@
 	max_integrity = 100
 	sewrepair = TRUE
 
+/obj/item/clothing/head/roguetown/flathat
+	name = "Galero"
+	desc = "Commonly used by what's left of the Psydon's church"
+	color = null
+	icon_state = "flathat"
+	item_state = "flathat"
+	flags_inv = HIDEHAIR
+	icon = 'icons/roguetown/clothing/head.dmi'
+	mob_overlay_icon = 'icons/roguetown/clothing/onmob/64x64/head.dmi'
+	worn_x_dimension = 64
+	worn_y_dimension = 64
+
 /obj/item/clothing/head/roguetown/roguehood/astrata
 	name = "sun hood"
 	desc = "A hood worn by those who favor Astrata. Praise the firstborn sun!"
