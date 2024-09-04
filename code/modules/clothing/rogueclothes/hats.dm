@@ -72,6 +72,15 @@
 	worn_x_dimension = 64
 	worn_y_dimension = 64
 
+/obj/item/clothing/head/roguetown/zucchetto
+	name = "Zucchetto"
+	desc = ""
+	color = null
+	flags_inv = HIDEHAIR
+	icon_state = "zucchetto"
+	item_state = "zucchetto"
+	icon = 'icons/roguetown/clothing/head.dmi'
+
 /obj/item/clothing/head/roguetown/roguehood/astrata
 	name = "sun hood"
 	desc = "A hood worn by those who favor Astrata. Praise the firstborn sun!"
