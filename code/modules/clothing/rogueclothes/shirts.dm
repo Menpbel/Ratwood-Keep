@@ -15,19 +15,6 @@
 	sewrepair = TRUE
 	flags_inv = HIDEBOOB
 
-/obj/item/clothing/suit/roguetown/shirt/robe/inquisitor
-	slot_flags = ITEM_SLOT_ARMOR|ITEM_SLOT_CLOAK
-	name = "Choir Dress"
-	desc = ""
-	body_parts_covered = CHEST|GROIN
-	color = "#b0b0b0"
-	icon_state = "inquisitor"
-	item_state = "inquisitor"
-	flags_inv = HIDECROTCH|HIDEBOOB
-	icon = 'icons/roguetown/clothing/shirts.dmi'
-	mob_overlay_icon = 'icons/roguetown/clothing/onmob/shirts.dmi'
-	sleeved = 'icons/roguetown/clothing/onmob/shirts.dmi'
-
 /obj/item/clothing/suit/roguetown/shirt/undershirt
 	name = "shirt"
 	desc = ""
