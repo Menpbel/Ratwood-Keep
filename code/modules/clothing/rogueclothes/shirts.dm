@@ -89,7 +89,8 @@
 	name = "formal silks"
 	icon_state = "puritan_shirt"
 	allowed_race = CLOTHED_RACES_TYPES
-
+	sleeved = 'icons/roguetown/clothing/onmob/shirts.dmi'
+	
 /obj/item/clothing/suit/roguetown/shirt/undershirt/sailor
 	icon_state = "sailorblues"
 
